@@ -27,6 +27,7 @@ price : float = 20.02
 # Boolean
 
 is_true : bool = True
+print(is_true)
 is_false : bool = False
 # print(is_true)
 # print(is_false)
