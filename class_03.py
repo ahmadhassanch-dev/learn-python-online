@@ -18,7 +18,7 @@ multiply = num1 * num2
 n1 = 4
 n2 = 2
 
-divide = n1 / n2
+divide = n2 / n1
 # print(f"Divide {n2} / {n1   } = {divide}")
 
 # Floor Division (//)
@@ -93,4 +93,4 @@ exponentiation = n1 ** n2
 # DMAS rule
 # BODMAS stands for Brackets, Orders (i.e. powers and square roots, etc.), Division and Multiplication, Addition and Subtraction.
 tricky = 20 - 10 * 2 / 3
-print(tricky) 
+# print(tricky) 
