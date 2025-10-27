@@ -45,6 +45,7 @@ print(students , "List After Del")
 students[5] = "Zeeshan"
 print(students , "List After Update")
 
+
 # Slicing 
 print(students[149:201] , "List After Slicing")
 print(students[149:])
