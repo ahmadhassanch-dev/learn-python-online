@@ -1,5 +1,4 @@
-# Tuple 
-
+# Tuple
 # Non mutable type
 
 names = "Hassan" , "Ali", "Omar" , 15 , 20 , 25 , True , False , False
