@@ -22,3 +22,5 @@ finally:
 # print("abd \ndef")
 
 # print("*\n**\n***\n****")
+# This is from outside statement 
+
