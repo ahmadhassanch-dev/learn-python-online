@@ -1,0 +1,11 @@
+OOP - Object Orianted Programing
+
+compair normal coding with OOP
+1.Object
+
+
+4 Pillers of OOP 
+1. Encapsulation
+2. Inheritence
+3. Polymorphism
+4. Abstraction
