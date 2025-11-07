@@ -33,7 +33,6 @@ class Bankbalance:
         self.__balance = balance
     
     def get_balance(self):
-        self.__balance
         print("Your balance is:", self.__balance)
     
 
@@ -44,12 +43,15 @@ class Bankbalance:
         else:
             self.__balance = balance
             print("Your new balance is:", self.__balance)
+            
     def deposit(self, amount):
         if amount <= 0 :
             print("Deposit amount must be positive")
         else:
             self.__balance += amount
             print("Your new balance after deposit is:", self.__balance)
+            
+
     def withdraw(self, amount):
         if amount > self.__balance:
             print("Insufficient balance")
